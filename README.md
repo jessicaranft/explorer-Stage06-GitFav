@@ -42,3 +42,6 @@ The purpose of the challege was to work with:
 - JS data management;
 - JS error handling with try, catch and throw;
 - JS async functions.
+
+# Preview:
+![preview](./.github/explorer-stage06-git-fav.png)
