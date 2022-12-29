@@ -33,7 +33,7 @@ After that, the favorite username appear on the list with their image, name, num
 
 The app gets the data from Github API, and save it on the browser's Local Storage.
 
-The languages used where HTML5, CSS3, and JavaScript.
+The languages used were HTML5, CSS3, and JavaScript.
 
 The purpose of the challege was to work with:
 
